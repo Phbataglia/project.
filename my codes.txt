@@ -1,1 +1,2 @@
 hello it's my fist project for git and github
+this is the new line for code, thanks for you reading
